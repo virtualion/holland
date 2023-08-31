@@ -1,0 +1,12 @@
+ID	data	wallCenter	wallRight	wallUp	wallFront	x	y	z	size	frameTitle	parent	uniqueCode
+5	./Images/gogh/SK-A-3307.jpg	-58.5,37.5,40	0,0,1	0,1,0	-1,0,0	-9.041233	-10.563	0.2	1.3	Metal	-1:-1	4
+7	./Images/gogh/SK-A-3262.jpg	0,37.5,79	1,0,0	0,1,0	0,0,1	-10.445	-10.4685	0.2	0.9	MetalGold	-1:-1	6
+8	./Images/gogh/000.png	0,37.5,79	1,0,0	0,1,0	0,0,1	-38.19932	-10.5	0.2	2	none(caption)	-1:-1	7
+9	./Images/gogh/001.png	0,37.5,79	1,0,0	0,1,0	0,0,1	2.857249	-10.5	0.2	1.4	none(caption)	-1:-1	8
+10	./Images/gogh/002.png	-58.5,37.5,40	0,0,1	0,1,0	-1,0,0	6.807189	-10.3425	0.2	1.4	none(caption)	-1:-1	9
+16	./Images/gogh/003.png	37.67977,11.144,54.9691	0,0,-1	0,1,0	1,0,0	-7.362668	0.7675003	0.2	1.5	none(caption)	1:0	17
+20	./Images/gogh/004.png	37.67977,11.144,54.9691	0,0,-1	0,1,0	1,0,0	8.448299	0.9249995	0.2	1.5	none(caption)	1:0	21
+21	./Images/gogh/unnamed3.jpg	37.5,37.5,0.5	-1,0,0	0,1,0	0,0,-1	-3.779203	-10.4055	0.2	1.2	Wooden_thin2	-1:-1	23
+22	./Images/gogh/unnamed4.jpg	58.5,37.5,40	0,0,-1	0,1,0	1,0,0	11.58432	-10.5315	0.2	1.1	Wooden_thin2	-1:-1	24
+24	./Images/gogh/006.png	58.5,37.5,40	0,0,-1	0,1,0	1,0,0	25.71243	-10.5315	0.2	1.4	none(caption)	-1:-1	26
+25	./Images/gogh/005.png	37.5,37.5,0.5	-1,0,0	0,1,0	0,0,-1	10.55473	-10.5	0.2	1.4	none(caption)	-1:-1	27

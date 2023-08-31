@@ -1,0 +1,2 @@
+ID	type	x	z	theta	cover	uniqueCode	color
+1	15.0x7.0x7.5	45.20977	54.9691	90	1	10	0.4245283,0.4245283,0.5411765,1

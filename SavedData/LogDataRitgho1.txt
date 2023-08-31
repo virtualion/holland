@@ -1,0 +1,3 @@
+id	data	x	y	z	theta	size	parent	uniqueCode
+1	./Images/gogh/unnamed.jpg,Wooden_thin2	-1.739999	2	-9.52	0,11.39187,0	0.4	1	11
+2	./Images/gogh/unnamed2.jpg,Wooden_thin2	-0.9999999	2	5.930002	0,13.86836,0	0.8	1	22
